@@ -1,5 +1,2 @@
-let a = 1;
-let b = 2;
-let c = a + b;
-
-console.log('thinh dep zai')
+var hl = require("./hello");
+hl()
